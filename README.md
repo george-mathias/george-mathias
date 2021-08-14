@@ -2,14 +2,19 @@
 
 <div>
   <a href="https://github.com/george-mathias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=george-mathias&show_icons=true&theme=dark&include_all_commits=true&count_private=true&disable_animations=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-mathias&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=george-mathias&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-mathias&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div><br>
   
 ### contatos
 <div style="display: inline_block">
-  <a href="mailto:gmathias80@gmail.com" alt="George-Gmail" title="gmathias80@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mathiasgeorge" alt="George-LinkedIn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:gmathias80@gmail.com" alt="George-Gmail" title="gmathias80@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/mathiasgeorge" alt="George-LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>  
 <br>
   
