@@ -17,6 +17,12 @@
   </a>
 </div>  
 <br>
+ 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gmathias&layout=default)](https://github.com/george-mathias)
+
+
+
   
 ### linguagens de programação
 <div style="display: inline_block">
