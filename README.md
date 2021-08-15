@@ -21,17 +21,15 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gmathias&layout=default)](https://github.com/george-mathias)
 
-
-
-  
+ 
 ### linguagens de programação
 <div style="display: inline_block">
   <img align="center" alt="George-Csharp" title="CSharp" height="50" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
   <img align="center" alt="George-Java" title="Java" height="50" width="50" src="https://user-images.githubusercontent.com/43831349/129459777-a3a274b3-7539-4441-a323-764f37c3499d.png">
   <img align="center" alt="George-Js" title="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="George-Python" title="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div><br>
-
+</div>
+<br>
   
 ### ferramentas para testes
 <div>
@@ -40,28 +38,24 @@
   <img align="center" alt="George-Selenium" title="Selenium Webdriver" height="50" width="130" src="https://user-images.githubusercontent.com/43831349/129464736-59b782d4-faea-4d6a-801d-eb7425cd490c.png">
   <img align="center" alt="George-JUnit5" title="JUnit5" height="50" width="90" src="https://user-images.githubusercontent.com/43831349/129458982-afe12a2e-4903-461d-a832-51725b37288d.png">
   <img align="center" alt="George-NUnit" title="NUnit" height="50" width="120" src="https://user-images.githubusercontent.com/43831349/129459586-470e7451-3e8e-415d-913b-5a6912fb1b08.png">
+  <img align="center" alt="George-JMeter" title="JMeter" height="50" width="120" src="https://user-images.githubusercontent.com/43831349/129465454-7a2dcc49-dfaf-4a0d-a86e-9498d58fef82.png">
 </div><br>
   
 ### banco de dados
 <div>  
   <img align="center" alt="George-MySql" title="MySql" height="50" width="100" src="https://user-images.githubusercontent.com/43831349/129459899-528ffcce-6902-4ad9-94fb-cb43c35b2718.png?size=148&color=currentColor">
   <img align="center" alt="George-SqlServer" title="SqlServer" height="50" width="150" src="https://user-images.githubusercontent.com/43831349/129459464-84fe3f48-8cde-4dd3-99e8-043655478298.png?size=148&color=currentColor">
-</div><br>
+</div>
+<br>
   
 
 ### versionamento
 <div>
   <img align="center" alt="George-Git" title="Git" height="50" width="60" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-</div><br>
-  
-  
-  
+</div>
+<br>  
 
- 
-  
 
-  
-  ##
 <!--
 **george-mathias/george-mathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
