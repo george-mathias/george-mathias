@@ -4,7 +4,8 @@
   <a href="https://github.com/george-mathias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=george-mathias&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-mathias&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div><br>
+</div>
+  <br>
   
 ### contatos
 <div style="display: inline_block">
@@ -16,7 +17,9 @@
   </a>
 </div>  
 <br>
- 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gmathias&layout=default)](https://github.com/george-mathias)
+
 ### linguagens de programação
 <div style="display: inline_block">
   <img align="center" alt="George-Csharp" title="CSharp" height="50em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
