@@ -35,9 +35,9 @@
   
 ### ferramentas para testes
 <div>
-  <img align="center" alt="George-Robot" title="Robot Framework" height="50" width="50" src="https://user-images.githubusercontent.com/43831349/129458828-da767841-66f6-4657-8472-2ad18749c500.png">
-  <img align="center" alt="George-Playwright" title="Playwright" height="50" width="50" src="https://user-images.githubusercontent.com/43831349/129459646-515ee0f9-a27e-4b5c-8289-5baf6237b47a.png">
-  <img align="center" alt="George-Selenium" title="Selenium Webdriver" height="50" width="50" src="https://user-images.githubusercontent.com/43831349/129458287-01238735-a690-413f-9ef6-6a3f5dde19a6.png">
+  <img align="center" alt="George-Robot" title="Robot Framework" height="50" width="110" src="https://user-images.githubusercontent.com/43831349/129464555-5b5b8e0b-bb77-4911-9170-1acd020fb2dd.png">
+  <img align="center" alt="George-Playwright" title="Playwright" height="50" width="140" src="https://user-images.githubusercontent.com/43831349/129464799-08de4d32-fcf7-425f-9cbd-95d144b25513.png">
+  <img align="center" alt="George-Selenium" title="Selenium Webdriver" height="50" width="130" src="https://user-images.githubusercontent.com/43831349/129464736-59b782d4-faea-4d6a-801d-eb7425cd490c.png">
   <img align="center" alt="George-JUnit5" title="JUnit5" height="50" width="90" src="https://user-images.githubusercontent.com/43831349/129458982-afe12a2e-4903-461d-a832-51725b37288d.png">
   <img align="center" alt="George-NUnit" title="NUnit" height="50" width="120" src="https://user-images.githubusercontent.com/43831349/129459586-470e7451-3e8e-415d-913b-5a6912fb1b08.png">
 </div><br>
