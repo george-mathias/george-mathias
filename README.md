@@ -33,6 +33,7 @@
 <div>
   <img align="center" alt="George-Robot" title="Robot Framework" height="50em" src="https://user-images.githubusercontent.com/43831349/129464555-5b5b8e0b-bb77-4911-9170-1acd020fb2dd.png">
   <img align="center" alt="George-Playwright" title="Playwright" height="50em" src="https://user-images.githubusercontent.com/43831349/129464799-08de4d32-fcf7-425f-9cbd-95d144b25513.png">
+  <img align="center" alt="George-Playwright" title="Cypress" height="50em" src="https://user-images.githubusercontent.com/43831349/137590506-0e4c2bb1-42e3-43a3-a89a-e179988eded8.png">  
   <img align="center" alt="George-Selenium" title="Selenium Webdriver" height="50em" src="https://user-images.githubusercontent.com/43831349/129464736-59b782d4-faea-4d6a-801d-eb7425cd490c.png">
   <img align="center" alt="George-JUnit5" title="JUnit5" height="50em" src="https://user-images.githubusercontent.com/43831349/129458982-afe12a2e-4903-461d-a832-51725b37288d.png">
   <img align="center" alt="George-NUnit" title="NUnit" height="50em" src="https://user-images.githubusercontent.com/43831349/129459586-470e7451-3e8e-415d-913b-5a6912fb1b08.png">
