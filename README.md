@@ -20,6 +20,25 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gmathias&layout=default)](https://github.com/george-mathias)
 
+  
+    
+<div style="display: inline_block"><br>
+  <a href="https://www.java.com/pt-BR/download/help/whatis_java.html" target="_blank"> <img align="center" alt="Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img align="center" alt="Mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img align="center" alt="Vscode" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="center" alt="Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> </a>
+<a href="https://www.microsoft.com/pt-br/windows/" target="_blank"> <img align="center" alt="Windows" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> </a>
+</a>
+
+<!-- GIF -->
+<a href="https://github.com/safirafg">
+<div>
+<!-- <img style="margin:50px;" align="right" alt="safirafg-oTodoPoderoso-gif" height="200" style="border-radius:50px;" src=""> -->
+</div>
+  </a>
+  
+  ##
 ### linguagens de programação
 <div style="display: inline_block">
   <img align="center" alt="George-Csharp" title="CSharp" height="50em" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
